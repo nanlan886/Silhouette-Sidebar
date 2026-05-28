@@ -44,6 +44,8 @@
 - 适合多任务切换、单手操作和效率提升
 - 界面简洁，使用门槛低
 
+- 
+
 
 "Side Shadow" is a lightweight and efficient Android floating sidebar app designed to facilitate quick app launches and common actions, thereby boosting multitasking efficiency. It addresses a common pain point for users of Xiaomi/Redmi tablets and devices running stock Android (such as Pixel phones), which often lack a built-in sidebar feature.
 
